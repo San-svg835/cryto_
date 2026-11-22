@@ -39,19 +39,19 @@ The dashboard presents market information in a structured format to help users e
 
 Explores closing-price trends across yearly, quarterly, and monthly periods to compare historical cryptocurrency performance.
 
-![Cryptocurrency Performance Analysis](Screenshots/01-performance-analysis.png)
+![Cryptocurrency Performance Analysis](01-performance-analysis.png)
 
 ### 2. Volatility and Growth Analysis
 
 Examines historical closing-price movements and compares the price trends of the selected cryptocurrencies from 2020 to 2025.
 
-![Volatility and Growth Analysis](Screenshots/02-volatility-growth.png)
+![Volatility and Growth Analysis](02-volatility-growth.png)
 
 ### 3. Trading Volume Analysis
 
 Compares trading volume distribution across the selected cryptocurrency pairs using USDT and BNB volume metrics.
 
-![Trading Volume Analysis](Screenshots/03-trading-volume.png)
+![Trading Volume Analysis](03-trading-volume.png)
 
 ## Key Analytical Areas
 
